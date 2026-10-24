@@ -1,16 +1,11 @@
 # Roadster Flight
 
-Adds a drivable, flying Roadster to **Over the Hill**.
+Adds a drivable, flying Roadster to **Over the Hill** on Windows / Proton.
 
-**[Download the mod](https://github.com/LuckAss0/Roadster-Flight/releases)** · [Installation](INSTALL.md) · [Credits](CREDITS.md)
+**[Download v0.10.6](https://github.com/Parziva135/Roadster-Flight/releases/tag/v0.10.6)** · [Installation](INSTALL.md)
 
-Requires **Windows x64** and **BepInEx 6 IL2CPP**.
+Requires **Windows x64 BepInEx 6 IL2CPP**. Close the game, extract the ZIP and copy its `BepInEx` folder into the game folder.
 
-## Controls
+**Controls:** WASD to drive, Space to jump/lift, Ctrl for underside thrust, Shift to boost, arrows to air-roll and F6 for assisted flight. Controller: left stick for pitch; hold LT/L2 + stick left/right to roll. Rebind in **Settings → Controls → Basic**.
 
-- **Keyboard:** Space to jump/hold thrust, Shift to boost, F6 for flight, left/right arrows to air-roll.
-- **Controller:** left stick to pitch; hold LT/L2 + stick left/right to air-roll. Assign the extra buttons in Settings.
-
-Change bindings in **Settings → Controls → Basic**.
-
-**Solo only.** The title-screen **MODS: ON/OFF** switch lets you return to the base game.
+For multiplayer, both players need **v0.10.6** with **MODS: ON**. Use **MODS: OFF** for base-game sessions. Native Linux is a separate version.
